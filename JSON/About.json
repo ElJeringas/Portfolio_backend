@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Santiago Javier Sarmiento",
+        "profession": "FrontEnd developer",
+        "photo" : "url_photo",
+        "about_me" : "despues tengo que agregar una descripcion",
+        "skills" : [
+            "Javascript",
+            "ReactJS",
+            "HTML5",
+            "CSS3",
+            "Python",
+            "OpenCV",
+            "C++",
+            "Matlab",
+            "AdobeXD",
+            "CISCO Networks",
+            "Mobile Networks"
+        ]
+    }
+]
