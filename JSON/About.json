@@ -2,7 +2,7 @@
     {
         "name": "Santiago Javier Sarmiento",
         "profession": "FrontEnd developer",
-        "photo" : "url_photo",
+        "photo" : "https://i.ibb.co/XSnSrBw/IMG-20180705-182042182-HDR.jpg",
         "about_me" : "despues tengo que agregar una descripcion",
         "skills" : [
             "Javascript",
